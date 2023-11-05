@@ -1,0 +1,2 @@
+rootProject.name = "nice_guarita_ip_app"
+include ':app'
